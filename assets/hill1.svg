@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" 
-     xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="800" height="60"
->
-  <text font-size="16" x="10" y="15" style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-    <tspan fill="orange">Who</tspan>
-    <tspan fill="limegreen">what </tspan>
-    <tspan fill="red">wow</tspan>
-    <tspan dy="1.2em" x="10" fill="orange">A community leader or resident </tspan>
-    <tspan fill="limegreen">can organize community events and broadcast </tspan>
-    <tspan dy="1.2em" x="10" fill="limegreen">emergency information </tspan>
-    <tspan fill="red">based on geolocation data.</tspan>
-  </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="60" version="1.1"><text x="10" y="15" font-size="16" style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"><tspan fill="orange">Who</tspan> <tspan fill="#32cd32">what </tspan> <tspan fill="red">wow</tspan> <tspan x="10" fill="orange" dy="1.2em">A community leader or resident </tspan> <tspan fill="#32cd32">can organize community events and broadcast </tspan> <tspan x="10" fill="#32cd32" dy="1.2em">emergency information </tspan> <tspan fill="red">based on geolocation data.</tspan></text></svg>
